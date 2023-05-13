@@ -1,6 +1,7 @@
 # slam_in_autonomous_driving_notes
 
 高博的新书SLAM in Autonomous Driving book (SAD book)和深蓝学院课程《自动驾驶中的slam技术》第一期的课程笔记
+
 注：本项目为开源项目，不作商业用途，仅个人学习记录，为保护高翔老师的版权和其他权利，使用者需要在[https://github.com/gaoxiang12/slam_in_autonomous_driving/tree/master](https://github.com/gaoxiang12/slam_in_autonomous_driving/tree/master)
 的license的基础上进行开发和使用。
 
