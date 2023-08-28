@@ -15,7 +15,7 @@
 
 **优秀学员证书：**
 
-![优秀学员证书]([https://github.com/gaoxiang12/slam_in_autonomous_driving/tree/master](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/imgs/graduation.png))
+![优秀学员证书](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/imgs/graduation.png)
 
 # 二、代码安装
 
