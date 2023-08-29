@@ -13,6 +13,15 @@
 
 这个库是在学习课程过程中的笔记。计划包括思维导图笔记，相关证明与程序运行记录（不提供课程作业答案）
 
+|章节|笔记|代码|备注|
+|:----|:----|:----|:----|
+|源码安装|---|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E4%BA%8C%E4%BB%A3%E7%A0%81%E5%AE%89%E8%A3%85)|
+|第 0 章 笔记介绍|[笔记说明PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%200%20%E7%AB%A0%20%E7%AC%94%E8%AE%B0%E4%BB%8B%E7%BB%8D.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-0-%E7%AB%A0-%E7%AC%94%E8%AE%B0%E4%BB%8B%E7%BB%8D)|
+|第 1 章 自动驾驶|[第一章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%201%20%E7%AB%A0%20%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-1-%E7%AB%A0-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)|
+|第 2 章 基础数学知识回顾|[第二章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%202%20%E7%AB%A0%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-2-%E7%AB%A0-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE)|
+
+
+
 **优秀学员证书：**
 
 ![优秀学员证书](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/imgs/graduation.png)
@@ -97,9 +106,9 @@ TODO:在这里写更新的记录
 |时间|章节|笔记|代码|备注|
 |:----|:----|:----|:----|:----|
 |2023.05.13|00_源码安装|readme.md|---|源码安装的步骤|
-|2023.08.29|笔记说明文件上传|[笔记说明PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%200%20%E7%AB%A0%20%E7%AC%94%E8%AE%B0%E4%BB%8B%E7%BB%8D.pdf)|---|---|
-|2023.08.29|第一章的笔记上传|[第一章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%201%20%E7%AB%A0%20%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6.pdf)|---|---|
-|2023.08.29|第二章的笔记上传|[第二章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%202%20%E7%AB%A0%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.pdf)|---|---|
+|2023.08.29|笔记说明文件上传|[笔记说明PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%200%20%E7%AB%A0%20%E7%AC%94%E8%AE%B0%E4%BB%8B%E7%BB%8D.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-0-%E7%AB%A0-%E7%AC%94%E8%AE%B0%E4%BB%8B%E7%BB%8D)|
+|2023.08.29|第一章的笔记上传|[第一章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%201%20%E7%AB%A0%20%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-1-%E7%AB%A0-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)|
+|2023.08.29|第二章的笔记上传|[第二章的笔记PDF](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/blob/main/notes/%E7%AC%AC%202%20%E7%AB%A0%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE.pdf)|---|[点击跳转到本页面笔记](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes/tree/main#%E7%AC%AC-2-%E7%AB%A0-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE)|
 |    |    |    |    |    |
 |    |    |    |    |    |
 |    |    |    |    |    |
